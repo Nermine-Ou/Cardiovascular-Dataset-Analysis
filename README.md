@@ -1,6 +1,7 @@
 # Cardiovascular-Dataset-Analysis
 Conducted statistical analysis on a cardiovascular dataset with my team. Used R for analysis, preprocessing, EDA, and modeling. 
 
+![Cardiovascular Disease](istockphoto-1266227507-612x612.jpg)
 
 **Basic Data Description**
 
@@ -9,3 +10,6 @@ five CVD-related deaths are due to heart attacks and strokes, and one-third of t
 and this dataset contains 12 variables that can be used to predict potential heart disease. Individuals with cardiovascular diseases or at high risk of cardiovascular diseases (due to the presence of
 one or more risk factors such as hypertension, diabetes, hyperlipidemia, or an established disease)
 require early detection and management.
+
+You can check the dataset using this URL:
+https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset
