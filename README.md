@@ -1,7 +1,7 @@
 # Cardiovascular-Dataset-Analysis
 Conducted statistical analysis on a cardiovascular dataset with my team. Used R for analysis, preprocessing, EDA, and modeling. 
 
-![Cardiovascular Disease](istockphoto-1266227507-612x612.jpg)
+![Cardiovascular Disease](ImageCardioVascular.jpg)
 
 **Basic Data Description**
 
